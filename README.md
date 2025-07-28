@@ -34,18 +34,19 @@
 
 ---
 
-## 📈 Objetivos
+##  Objetivos
 
 - 📚 Aprofundar conhecimentos em estruturas de dados e arquitetura de computadores  
 - 💼 Conquistar uma vaga de estágio na área de tecnologia  
 - 🧠 Desenvolver projetos práticos e contribuir com a comunidade open source  
-- 🎶 Unir tecnologia e música com criatividade e propósito
+-  Unir tecnologia e música com criatividade e propósito
 
 ---
 
-## 📫 Vamos nos conectar!
+## Vamos nos conectar!
 
-- 📧 **Email:** endelazvdo@gmail.com  
+
+- 📧 **Email:** endelazevedo719@gmail.com  
 - 🌍 **Localização:** Rio de Janeiro - Brasil
 
 ---
